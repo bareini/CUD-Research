@@ -1,5 +1,3 @@
-                                                                            ![alt text](https://github.com/bareini/CUD-Research/blob/master/img/marijuana-leaf-icon-png-12.jpg)
-
 
 # CUD-Research
 
