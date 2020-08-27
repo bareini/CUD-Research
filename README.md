@@ -21,3 +21,8 @@ This code allows to examine mutiple trios and outputs a table which quatifies co
 2. Run Perprocess notebook for initial anylsis on the data and for the creation of the perprocessed set.
 
 3. Run CUD notebook.
+
+
+----
+
+**logo created by [IconMark](https://thenounproject.com/) from the Noun Project
